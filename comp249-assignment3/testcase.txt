@@ -1,0 +1,86 @@
+Opening file payroll...
+Reading file payroll...
+
+Errors found in file payroll:
+16783 JOHN CONNAUGHT 30.5 10.00 - under minimum wage.
+21O15 JAMES HAROLD 32.0 10.50 - format error.
+52726 MITCHELL HACKETT 23,7 12.05 - format error.
+#9331 MARIO TODARO 35.0 17.00 - format error.
+22310 CLAUDIA O'HARE 30.5 9.80 - under minimum wage.
+26734 EDITH ROOSEVELT 20.O 25.50 - format error.
+41024 EMILE BOURGEOYS 8.5 6.45 - under minimum wage.
+43018 JAMES WALKER 20.0 8.00 - under minimum wage.
+00812 VICTORIA PORTER 36.0 9.50 - under minimum wage.
+9201( DAVID BROCK 29.0 22.50 - format error.
+
+71 lines read from payroll file.
+10 lines written to error file.
+
+Calculating deductions...
+Writing report file...
+
+				<< Harbour Industries >>
+------------------------------------------------------------------------------------------
+Employee #	First Name	Last Name	Gross Salary	Deductions	Net Salary
+------------------------------------------------------------------------------------------
+31718		PHILLIP         LENNOX          $57200.00       $22886.57       $34313.43       
+11528		NANCY           TROOPER         $21736.00       $8317.06        $13418.94       
+10538		PETER           DUNCAN          $25155.00       $9625.31        $15529.69       
+61326		HARRY           KUHN            $15990.00       $6118.41        $9871.59        
+82465		MICHELLE        BENOIT          $48100.00       $18959.47       $29140.53       
+31816		DANIELLE        RAYMOND         $28151.50       $10771.89       $17379.61       
+73745		JACK            O'TOOLE         $16744.00       $6406.92        $10337.08       
+81514		VICTORIA        HALL            $44135.00       $17006.16       $27128.84       
+71854		ALI             MOHUMAD         $19565.00       $7486.35        $12078.65       
+92012		ALLAN           MARS            $28080.00       $10744.53       $17335.47       
+52853		MICHAEL         BOONE           $55055.00       $21973.68       $33081.32       
+41714		JULIE           HART            $13650.00       $5223.04        $8426.96        
+58342		MIKE            HEINZ           $24708.84       $9454.59        $15254.25       
+62080		PIETRO          SULA            $19435.00       $7436.61        $11998.39       
+21638		MICHEL          RAE             $26325.00       $10073.00       $16252.00       
+91316		LAWRENCE        COOK            $10692.50       $4091.38        $6601.12        
+60520		PETER           NEWHART         $19565.00       $7486.35        $12078.65       
+23033		JULIE           MACBAIN         $15015.00       $5745.34        $9269.66        
+41911		HAN             NGUYEN          $20884.50       $7991.25        $12893.25       
+91312		KELLY           PRIEST          $40560.00       $15519.88       $25040.12       
+15307		MARY            HIGGINS         $37037.00       $14171.84       $22865.16       
+51728		KIRK            DOUGLAS         $30485.00       $11664.78       $18820.22       
+43902		JAMES           KIRK            $20800.00       $7958.91        $12841.09       
+52521		PAUL            HARVEY          $16243.50       $6215.41        $10028.09       
+31215		JACQUES         LAPIERRE        $15847.00       $6063.70        $9783.30        
+38421		PAUL            MORISSON        $27027.00       $10341.61       $16685.39       
+70321		JACK            UNGER           $11466.00       $4387.35        $7078.65        
+12421		VALERIE         PROULX          $17940.00       $6864.56        $11075.44       
+82411		HELEN           MACINTOSH       $16672.50       $6379.57        $10292.93       
+21117		EDWARD          MANLEY          $30940.00       $11838.88       $19101.12       
+00925		EMILIO          PEREZ           $33930.00       $12982.98       $20947.02       
+31820		GEORGE          CARLETON        $11050.00       $4228.17        $6821.83        
+91715		JUDITH          DAWSON          $31200.00       $11938.37       $19261.63       
+31012		MARK            ANTHONY         $19500.00       $7461.48        $12038.52       
+32613		EVELYN          DOWNS           $18850.00       $7212.76        $11637.24       
+13133		GUY             LAROSE          $19246.50       $7364.48        $11882.02       
+91412		DENNIS          MACLEAN         $19110.00       $7312.25        $11797.75       
+11314		EDMOND          WHITE           $24986.00       $9560.64        $15425.36       
+61527		JOHN            COHEN           $27885.00       $10669.92       $17215.08       
+43817		DIANE           PARTON          $17342.00       $6635.74        $10706.26       
+42850		KELLY           HART            $27300.00       $10446.07       $16853.93       
+92716		ANNA            GREGORY         $13227.50       $5061.37        $8166.13        
+01113		PIERRE          DESFORGES       $8580.00        $3283.05        $5296.95        
+60716		SOFIA           CORDERI         $61152.00       $24568.50       $36583.50       
+01823		PATRICK         JUSTICE         $21840.00       $8356.86        $13483.14       
+13331		DEAN            O'SULLIVAN      $21385.00       $8182.76        $13202.24       
+81368		JOHN            MACRAE          $27787.50       $10632.61       $17154.89       
+91214		PATRICIA        COOK            $10920.00       $4178.43        $6741.57        
+91245		EDMOND          PRINCE          $10868.00       $4158.53        $6709.47        
+42018		MIKE            HINT            $14534.00       $5561.29        $8972.71        
+62023		DANIEL          ANDREWS         $21060.00       $8058.40        $13001.60       
+01314		KENNY           ROGERS          $27690.00       $10595.30       $17094.70       
+20922		MARIA           GUARDIA         $29029.00       $11107.66       $17921.34       
+21219		HENRY           MACDONALD       $23400.00       $8953.78        $14446.22       
+83530		HENRY           MACALLISTER     $24960.00       $9550.69        $15409.31       
+83830		PIERRE          GALANT          $6843.20        $2618.48        $4224.72        
+72820		CHANTAL         ROY             $22243.00       $8511.06        $13731.94       
+92318		PIERRE          DOLLARD         $19266.00       $7371.94        $11894.06       
+42520		NADIA           MARKS           $14976.00       $5730.42        $9245.58        
+61612		MICHAEL         DALTON          $39520.00       $15121.93       $24398.07       
+12535		FARRAH          HILL            $42900.00       $16471.46       $26428.54       
